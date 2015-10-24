@@ -1,0 +1,23 @@
+#home {
+  width: 100%;
+  height: 100vh;
+}
+#about {
+  width: 100%;
+  height: 100vh;
+}
+
+#contact {
+  width: 100%;
+  height: 100vh;
+}
+
+.row {
+  width: 100%;
+  background-color: red;
+}
+
+.col {
+  height: 100%;
+  background-color: green;
+}
